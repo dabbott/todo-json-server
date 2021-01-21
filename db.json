@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Go to work",
+      "completed": false
+    },
+    {
+      "id": 1,
+      "title": "Eat food",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Wash dishes",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Write code",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Join cult",
+      "completed": true
+    }
+  ]
+}
